@@ -1,0 +1,12 @@
+{
+  "name": "mixify",
+  "description": "Combine your favorite Spotify playlists to create something new! 🎶✨",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jannis Hajda <jannis.hajda@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.2.0"
+  }
+}
